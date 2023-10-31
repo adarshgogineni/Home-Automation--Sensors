@@ -23,3 +23,5 @@ To configure the sensors, we will build sensor schematics on an Arduino/NodeMCU 
 #### Window Sensor:
 <img width="493" alt="Screenshot 2023-10-31 at 1 10 17 PM" src="https://github.com/adarshgogineni/Home-Automation--Sensors/assets/32943978/4f392526-b55e-4797-a484-3bc94c17c598">
 
+## UML Package Diagram
+<img width="547" alt="Screenshot 2023-10-31 at 1 19 00 PM" src="https://github.com/adarshgogineni/Home-Automation--Sensors/assets/32943978/69fe308e-0719-4c7e-b161-ce5b905ac43a">
