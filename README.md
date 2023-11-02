@@ -1,6 +1,6 @@
 # Glass Home
 
-A Home Hazardous Prevention System. The app alerts the user and suggests businesses to contact. 
+A Home Hazardous Prevention System. The app alerts the user when there are unexpected hazardous events occurring at the user's home. 
 
 ## Description
 Glass Home will be a one stop application to keep the home safe and secure. Using various sensors such as a Light Sensor, to sense whether the lights were left on/off; a Temperature Sensor to sense whether the gas stove was left on/off; a Motion Sensor to check if anyone has entered the house; and a Moisture Sensor to check for water leakage; We can monitor areas in the house and send notifications to the users based on signals from the sensors.
